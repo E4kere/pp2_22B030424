@@ -2,4 +2,4 @@ x = input("Whats your name: ")
 while len(x) == 0:
     x = input("Write your name: ")
 
-print(x)
+print("Username is: " + x)
