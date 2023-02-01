@@ -1,2 +1,4 @@
-thislist = ["apple", "banana", "cherry", "apple", "cherry"]
-print(thislist)
+x = "Python "
+y = "is "
+z = "awesome"
+print(x + y + z)

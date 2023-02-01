@@ -1,2 +1,2 @@
-thistuple = ("apple", "banana", "cherry")
-print(len(thistuple))
+x = 5
+print(type(x))

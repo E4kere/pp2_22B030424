@@ -1,5 +1,7 @@
-set1 = {"a", "b" , "c"}
-set2 = {1, 2, 3}
+a = "Hello, World!"
+print(a[1])
 
-set3 = set1.union(set2)
-print(set3)
+print("         ")
+
+for x in "banana":
+  print(x)
