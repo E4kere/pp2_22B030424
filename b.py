@@ -1,6 +1,14 @@
-<<<<<<< HEAD
-#This is a comment.
-=======
-#This is a comment.
->>>>>>> 67fdd41deadedfc892aaea5cf49e3eb6bc516de9
-print("Hello, World!")
+for x in range(6):
+  print(x)
+else:
+  print("Finally finished!")
+
+  print(" ")
+
+
+  adj = ["red", "big", "tasty"]
+fruits = ["apple", "banana", "cherry"]
+
+for k in adj:
+  for y in fruits:
+    print(k, y)
