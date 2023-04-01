@@ -1,4 +1,4 @@
 from datetime import date, timedelta
-dt = date.today() - timedelta(5)
+dt = date.today() - timedelta()
 print(date.today())
 print(dt)
